@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "kenko-mcp": {
+      "type": "http",
+      "url": "https://kenko-mcp.com/mcp"
+    }
+  }
+}

@@ -1,0 +1,14 @@
+*
+!.gitignore
+!README.md
+!README.de.md
+!LICENSE
+!SECURITY.md
+!examples/
+examples/*
+!examples/mcp.json
+!skills/
+skills/*
+!skills/kenko-studio/
+skills/kenko-studio/*
+!skills/kenko-studio/SKILL.md
